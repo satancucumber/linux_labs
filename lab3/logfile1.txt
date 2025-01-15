@@ -1,0 +1,28 @@
+===== PARENT DELAY - 30, CHILD1 DELAY - 20, CHILD2 DELAY - 10 =====
+CHILD2 ID proceess - 3904
+CHILD2 ID parent - 3902
+CHILD2 ID session of process  - 3233
+CHILD2 ID group of process  - 3902
+CHILD2 Real ID of user - 1000
+CHILD2 Effective ID of user - 1000
+CHILD2 Real ID of group  - 1000
+CHILD2 Effective ID of group  - 1000
+------------------------------------------
+CHILD1 Process ID - 3903
+CHILD1 Parent ID - 3902
+CHILD1 Session ID - 3233
+CHILD1 Group ID - 3902
+CHILD1 Real User ID - 1000
+CHILD1 Effective User ID - 1000
+CHILD1 Real Group ID - 1000
+CHILD1 Effective Group ID - 1000
+------------------------------------------
+PARENT Process ID - 3902
+PARENT Parent ID - 3233
+PARENT Session ID - 3233
+PARENT Group ID - 3902
+PARENT Real User ID - 1000
+PARENT Effective User ID - 1000
+PARENT Real Group ID - 1000
+PARENT Effective Group ID - 1000
+------------------------------------------

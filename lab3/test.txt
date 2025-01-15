@@ -1,0 +1,28 @@
+===== PARENT DELAY - 1, CHILD1 DELAY - 2, CHILD2 DELAY - 3 =====
+PARENT Process ID - 12140
+PARENT Parent ID - 11992
+PARENT Session ID - 11992
+PARENT Group ID - 12140
+PARENT Real User ID - 1000
+PARENT Effective User ID - 1000
+PARENT Real Group ID - 1000
+PARENT Effective Group ID - 1000
+------------------------------------------
+CHILD1 Process ID - 12141
+CHILD1 Parent ID - 2207
+CHILD1 Session ID - 11992
+CHILD1 Group ID - 12140
+CHILD1 Real User ID - 1000
+CHILD1 Effective User ID - 1000
+CHILD1 Real Group ID - 1000
+CHILD1 Effective Group ID - 1000
+------------------------------------------
+CHILD2 Process ID: 12142
+CHILD2 Parent ID: 2207
+CHILD2 Session ID: 11992
+CHILD2 Group ID: 12140
+CHILD2 Real User ID: 1000
+CHILD2 Effective User ID: 1000
+CHILD2 Real Group ID: 1000
+CHILD2 Effective Group ID: 1000
+------------------------------------------
